@@ -1,0 +1,97 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 24436,
+  "do_objectID": "6E1B6649-3E68-4003-BD7D-7F35C3CD4367",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 300,
+    "x": 16730,
+    "y": 180
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FE7797FE-504F-400C-82E8-C09EBFD930F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF1F6F25-B6C8-4CE7-AF51-6EFD2711C79E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "650AD67B-2C13-4DD1-9A3B-FC19406E8C97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B52E49A6-736F-41D9-AB58-9633707A6112"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D89E4A7-5723-4BC3-9A14-034631EB3D48"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08BE05AB-B464-45B2-B690-E4019D65D61C"
+    }
+  ],
+  "name": "control / button",
+  "nameIsFixed": true,
+  "originalObjectID": "6E1B6649-3E68-4003-BD7D-7F35C3CD4367",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "110D2D38-963E-462C-BA63-DEC72FAE1CCB",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 9
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

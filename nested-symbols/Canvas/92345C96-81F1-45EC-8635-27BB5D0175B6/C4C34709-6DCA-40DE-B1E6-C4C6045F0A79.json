@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C4C34709-6DCA-40DE-B1E6-C4C6045F0A79",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 256,
+    "x": 32,
+    "y": 302
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "control / input + label",
+  "nameIsFixed": true,
+  "overrides": {
+    "4A8C9A5F-DACB-4D9D-889B-96D52175A1C5": {
+      "062E48AC-929B-43C5-B3CB-3867DE6029A1": "County",
+      "0FBC4A15-F7D9-4E51-AD63-62820A3D342A": "County",
+      "1BE61943-0C03-4FE2-BC3E-826A03182B50": "County",
+      "2E54758B-6DCC-46AF-BECC-51F8A9EDFFFF": "Yorkshire",
+      "2E8D7DC7-4BA8-4BE4-B4D6-06D8D473F8FA": "County",
+      "4B0735C0-E743-481D-896B-4A266A0B6EFE": "County",
+      "6C7A9881-EFF3-43C6-8734-65425CF99A57": "County",
+      "76824B4E-8F32-4AF7-99AB-DE55AD0B07E6": "Yorkshire",
+      "77DA6E6C-7120-4F25-9D60-EB8337CDBD10": "County",
+      "78EA8A43-30C5-44BF-AA2E-9B9E8EFC4CD5": "Yorkshire",
+      "8FA2D60A-E135-4985-A179-441A8E204E4F": "Yorkshire",
+      "93135C21-8E2A-4F90-ACE2-A65ED4D8B3AF": "Yorkshire",
+      "9D3651D9-5C6A-4BA2-B8D9-1A2D92F0BB54": "Yorkshire",
+      "ABAD9BB7-CFA8-4E12-9EFF-BF417A63F23F": "County",
+      "B57EB281-FB80-4A65-9A79-97499EE3E944": "Yorkshire",
+      "C465FEAE-C5B2-4204-A8FB-5336E677904A": "County",
+      "C80559DB-5EEA-4E90-9ACF-8A0E47CEF26B": "County",
+      "E72306B2-F025-45AD-BDF0-F6A8D5A9036A": "Yorkshire",
+      "EA5E6D00-C68E-440D-8170-E1C8772C4BC3": "County",
+      "EFFBC6AE-4A7C-4EBD-B310-5E917EDCAE46": "Yorkshire",
+      "F13ED230-CD69-4216-9FCE-126AD96ABBD5": "Yorkshire",
+      "F76D790E-1F02-4BE8-8E83-2F38D1311610": "Yorkshire",
+      "symbolID": "23F145DB-8529-48B2-B09C-67B28FC5891A"
+    }
+  },
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "54F73543-2107-4296-A948-D4419DB3573A",
+  "verticalSpacing": 0
+}

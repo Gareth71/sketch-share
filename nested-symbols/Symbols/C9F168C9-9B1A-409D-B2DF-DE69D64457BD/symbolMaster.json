@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 4169,
+  "do_objectID": "C9F168C9-9B1A-409D-B2DF-DE69D64457BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 71,
+    "width": 473,
+    "x": 17807,
+    "y": 294
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "76EC3D72-9F62-4ED9-9751-A7D16EFE271E"
+    },
+    {
+      "class": "text",
+      "id": "E30C1AE5-21F7-41AB-8040-706B2E613526"
+    },
+    {
+      "class": "text",
+      "id": "028C5DC0-A757-449A-8E6C-8844E9EDD05C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "494E8D48-5FAF-4085-BF07-999E32B23028"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "013DEC1B-5F84-4B1E-AC86-A95948788756"
+    }
+  ],
+  "name": "email / stacked / read",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BCF61461-4D3F-45CE-BF5D-6560685EC502",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

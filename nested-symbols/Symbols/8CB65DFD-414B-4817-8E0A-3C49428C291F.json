@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNUBDRkpOVlc9WFldYWNVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANXQ29udHJvbNMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA+AF1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4xNTY4NjI3NDUxIDAuMTU2ODYyNzQ1MSAwLjE2MDc4NDMxMzcAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1jY3OAo5Ojs8PT4/PVpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNUaWdodGVuaW5nRmFjdG9yRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodIAAgAwjQD4AAAAAAACADiM/qZmZoAAAANISCkFCoIAN0iwtREVXTlNBcnJheaJEMdIsLUdIXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjR0kxXxAQTlNQYXJhZ3JhcGhTdHlsZdIKS0xNXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFoAQ0xESCk9SVaJQUYARgBKiU1SAE4AUgBVfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZV5IZWx2ZXRpY2EtQm9sZNIsLVpbXxATTlNNdXRhYmxlRGljdGlvbmFyeaNaXDFcTlNEaWN0aW9uYXJ50iwtXl9fEBBOU0ZvbnREZXNjcmlwdG9yomAxXxAQTlNGb250RGVzY3JpcHRvctIsLVxiolwx0iwtZGVfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiZjFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRaWpUcm9vdIABAAgAEQAaACMALQAyADcAUwBZAGAAaQBwAH0AfwCBAIMAiwCSAJoApQCpAKsArQCvALMAtQC3ALkAuwDDANYA+AEBAQcBFAEpAVMBVQFXAVkBXgFjAWUBZwFsAXcBgAGNAZABnQGmAasBswG2AcMBzgHaAewCDgIgAiICJAItAi8COAI9Aj4CQAJFAk0CUAJVAm8CcwKGAosCqAKqAqwCswK2ArgCugK9Ar8CwQLDAtkC7wL+AwMDGQMdAyoDLwNCA0UDWANdA2ADZQN6A30DkgOkA6cDrAAAAAAAAAIBAAAAAAAAAGsAAAAAAAAAAAAAAAAAAAOu"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "8CB65DFD-414B-4817-8E0A-3C49428C291F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 107,
+    "x": 16730,
+    "y": 110
+  },
+  "glyphBounds": "{{0, -6}, {105, 30}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Control Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "B0996F1B-9DA6-49EA-8795-B3AD1DD5CAA2"
+  },
+  "textBehaviour": 0
+}

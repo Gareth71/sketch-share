@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9467BC3E-CDAA-4829-A36F-9AFB4B680175",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 256,
+    "x": 32,
+    "y": 382
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "control / button",
+  "nameIsFixed": false,
+  "overrides": {
+    "08BE05AB-B464-45B2-B690-E4019D65D61C": {
+      "0D854688-2088-467A-AE9C-C9C7E1AC4937": "Update details",
+      "62B1F8C5-1D70-440D-9D88-DD6241DDA529": "Update details",
+      "969DAA81-7976-416F-A1AA-34DE81724116": "Update details",
+      "CF76E331-72CF-452F-AE53-50BC6B0238CF": "Update details",
+      "E1FFE171-F182-46D3-A845-D92157C94881": "Update details",
+      "symbolID": "5111E821-FE70-4DD1-8A6F-C84682EC46CC"
+    }
+  },
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "110D2D38-963E-462C-BA63-DEC72FAE1CCB",
+  "verticalSpacing": 0
+}

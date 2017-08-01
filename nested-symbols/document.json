@@ -1,0 +1,88 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1607843137254902,
+        "green": 0.1529411764705882,
+        "red": 0.1450980392156863
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6627450980392157,
+        "green": 0.6549019607843137,
+        "red": 0.6549019607843137
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8588235294117647,
+        "green": 0.8588235294117647,
+        "red": 0.8588235294117647
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9607843137254902,
+        "green": 0.9568627450980391,
+        "red": 0.9568627450980391
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4431372549019608,
+        "green": 0.8117647058823529,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8431372549019608,
+        "green": 0.9450980392156862,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7647058823529411,
+        "green": 0.5999999999999999,
+        "red": 0.3294117647058823
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3843137254901961,
+        "green": 0.3843137254901961,
+        "red": 0.8470588235294118
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "8F67BFDB-C7DF-47F9-B8CD-6A4C7095551A",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":10892321,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":false}"
+    }
+  }
+}
